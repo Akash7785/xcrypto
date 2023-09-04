@@ -24,6 +24,7 @@ const Footer = () => {
             a.
           </Text>
         </VStack>
+
         <VStack>
           <Avatar size={'2xl'} src={avtar} boxSize={'28'} mt={['4', '0']} />
           <Text>Developer</Text>
